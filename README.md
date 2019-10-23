@@ -3,3 +3,7 @@ Kamachi is a city building game in which you journey across the world on the bac
 Developed by myself (Software Lead) and five other Cornell students during Spring 2019<br /> 
 Uses LibGDX gaming engine<br /> 
 Language is Java<br /> 
+
+![](KamachiGif1.gif)
+![](KamachiGif2.gif)
+![](KamachiGif3.gif)
